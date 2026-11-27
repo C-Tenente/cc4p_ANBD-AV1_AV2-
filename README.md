@@ -37,7 +37,7 @@ O sistema entrega todas as funcionalidades principais exigidas pelo projeto:
 ---
 
 ## 5. Tecnologias Utilizadas
-* **Linguagem:** Python 3.12
+* **Linguagem:** Python 3.15
 * **Manipulação de Dados:** Pandas
 * **Visualização de Dados:** Matplotlib & Seaborn
 * **Persistência de Dados:** Planilhas Excel (`.xlsx` com suporte do motor `openpyxl`)
